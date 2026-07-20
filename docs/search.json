@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV\nYou can also view the PDF below.\n\n\nEmail: yu78@ucsb.edu"
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV\nYou can also view the PDF below.\n\n\nEmail: yu78@ucsb.edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I am interested in how new technologies reshape firms, markets, and economic outcomes. My current work studies the real effects of digital technologies, with projects on artificial intelligence and entrepreneurship in the United States and cryptocurrency payment infrastructure in African economies."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "I am interested in how new technologies reshape firms, markets, and economic outcomes. My current work studies the real effects of digital technologies, with projects on artificial intelligence and entrepreneurship in the United States and cryptocurrency payment infrastructure in African economies."
+  },
+  {
+    "objectID": "research.html#research-in-progress",
+    "href": "research.html#research-in-progress",
+    "title": "Research",
+    "section": "Research In Progress",
+    "text": "Research In Progress\n\nAI, Firm Dynamics, and the Extensive Margin of Entrepreneurship\nThis project studies how generative AI may change who starts firms and at what scale. I document new facts using Census Business Formation Statistics, the Business Trends and Outlook Survey, and firm-age evidence on AI adoption: business entry has remained elevated since 2020, the boom is tilted toward smaller-scale ventures, and young or very small firms appear unusually active in AI adoption. I then develop a firm-dynamics model in which AI affects entrepreneurship through idea generation, lower operating costs, and competitive pressure. Preliminary calibration targets entry-size and entry-flow moments, with the goal of understanding whether AI lowers the minimum viable scale of firm creation.\nStatus: Second-year paper in progress.\n\n\nCryptocurrency Payment Infrastructure and Real Economic Outcomes in Africa\nThis project studies whether cryptocurrency payment infrastructure affects real economic outcomes in Africa. I use the September 2021 China cryptocurrency ban as a shock to global crypto liquidity and compare African countries with higher pre-shock crypto adoption to those with lower adoption in a difference-in-differences framework. The analysis combines crypto adoption measures, trade data, labor income distribution data, mobile money indicators, and remittance corridor prices. Preliminary results suggest that higher-adoption countries experienced larger post-shock increases in imports, while export effects are weaker; mechanism tests point most clearly toward lower remittance costs rather than broad formal financial-inclusion gains.\nStatus: Research project in progress."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nNo publications listed yet."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am teaching Math Camp 2026 for incoming economics graduate students. Materials, notes, and problem sets will be posted here.\n\n\n\n\n\nDate\nTopic\nMaterials\n\n\n\n\nWeek 1\nSets, functions, and proof basics\nComing soon\n\n\nWeek 1\nLinear algebra review\nComing soon\n\n\nWeek 2\nCalculus and optimization\nComing soon\n\n\nWeek 2\nConstrained optimization\nComing soon\n\n\nWeek 3\nProbability review\nComing soon\n\n\nWeek 3\nDynamic optimization or applications\nComing soon\n\n\n\n\n\n\n\nSyllabus\nLecture 1 Notes\nProblem Set 1\nProblem Set 1 Solutions\n\n\n\n\nTuesdays at 3:00pm - 4:00pm in North Hall 3019."
+  },
+  {
+    "objectID": "teaching.html#current-teaching",
+    "href": "teaching.html#current-teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am teaching Math Camp 2026 for incoming economics graduate students. Materials, notes, and problem sets will be posted here.\n\n\n\n\n\nDate\nTopic\nMaterials\n\n\n\n\nWeek 1\nSets, functions, and proof basics\nComing soon\n\n\nWeek 1\nLinear algebra review\nComing soon\n\n\nWeek 2\nCalculus and optimization\nComing soon\n\n\nWeek 2\nConstrained optimization\nComing soon\n\n\nWeek 3\nProbability review\nComing soon\n\n\nWeek 3\nDynamic optimization or applications\nComing soon\n\n\n\n\n\n\n\nSyllabus\nLecture 1 Notes\nProblem Set 1\nProblem Set 1 Solutions\n\n\n\n\nTuesdays at 3:00pm - 4:00pm in North Hall 3019."
+  },
+  {
+    "objectID": "teaching.html#teaching-archive",
+    "href": "teaching.html#teaching-archive",
+    "title": "Teaching",
+    "section": "Teaching Archive",
+    "text": "Teaching Archive\nAdd previous teaching assistantships, guest lectures, review sessions, or course materials here.\n\n\n\nTerm\nCourse\nRole\n\n\n\n\nSummer 2026\nMath Camp 2026\nInstructor"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yue Yu",
+    "section": "",
+    "text": "I am a PhD student in economics at University of California, Santa Barbara. My interests include macroeconomics and labor economics.\nThis site collects my teaching materials, research updates, and course resources.\n\n\n\nYY\n\nEconomics PhD Student\nUniversity of California, Santa Barbara\nEmail CV"
+  },
+  {
+    "objectID": "index.html#current",
+    "href": "index.html#current",
+    "title": "Yue Yu",
+    "section": "Current",
+    "text": "Current\n\nMath Camp\nI am teaching Math Camp 2026. Course materials, notes, and problem sets will be posted on the Teaching page."
+  }
+]

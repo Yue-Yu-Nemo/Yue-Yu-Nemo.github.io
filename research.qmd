@@ -1,0 +1,30 @@
+---
+title: "Research"
+description: "Research interests, working papers, and publications."
+---
+
+## Research Interests
+
+I am interested in how new technologies reshape firms, markets, and economic outcomes. My current work studies the real effects of digital technologies, with projects on artificial intelligence and entrepreneurship in the United States and cryptocurrency payment infrastructure in African economies.
+
+## Research In Progress
+
+::: {.paper}
+**AI, Firm Dynamics, and the Extensive Margin of Entrepreneurship**
+
+This project studies how generative AI may change who starts firms and at what scale. I document new facts using Census Business Formation Statistics, the Business Trends and Outlook Survey, and firm-age evidence on AI adoption: business entry has remained elevated since 2020, the boom is tilted toward smaller-scale ventures, and young or very small firms appear unusually active in AI adoption. I then develop a firm-dynamics model in which AI affects entrepreneurship through idea generation, lower operating costs, and competitive pressure. Preliminary calibration targets entry-size and entry-flow moments, with the goal of understanding whether AI lowers the minimum viable scale of firm creation.
+
+*Status: Second-year paper in progress.*
+:::
+
+::: {.paper}
+**Cryptocurrency Payment Infrastructure and Real Economic Outcomes in Africa**
+
+This project studies whether cryptocurrency payment infrastructure affects real economic outcomes in Africa. I use the September 2021 China cryptocurrency ban as a shock to global crypto liquidity and compare African countries with higher pre-shock crypto adoption to those with lower adoption in a difference-in-differences framework. The analysis combines crypto adoption measures, trade data, labor income distribution data, mobile money indicators, and remittance corridor prices. Preliminary results suggest that higher-adoption countries experienced larger post-shock increases in imports, while export effects are weaker; mechanism tests point most clearly toward lower remittance costs rather than broad formal financial-inclusion gains.
+
+*Status: Research project in progress.*
+:::
+
+## Publications
+
+No publications listed yet.

@@ -1,0 +1,42 @@
+---
+title: "Teaching"
+description: "Teaching experience and course resources."
+---
+
+## Current Teaching
+
+### Math Camp 2026
+
+I am teaching Math Camp 2026 for incoming economics graduate students. Materials, notes, and problem sets will be posted here.
+
+#### Schedule
+
+| Date | Topic | Materials |
+|---|---|---|
+| Week 1 | Sets, functions, and proof basics | Coming soon |
+| Week 1 | Linear algebra review | Coming soon |
+| Week 2 | Calculus and optimization | Coming soon |
+| Week 2 | Constrained optimization | Coming soon |
+| Week 3 | Probability review | Coming soon |
+| Week 3 | Dynamic optimization or applications | Coming soon |
+
+#### Materials
+
+- [Syllabus](materials/syllabus.pdf)
+- [Lecture 1 Notes](materials/lecture-1-notes.pdf)
+- [Problem Set 1](materials/problem-set-1.pdf)
+- [Problem Set 1 Solutions](materials/problem-set-1-solutions.pdf)
+
+
+#### Office Hours
+
+Tuesdays at 3:00pm - 4:00pm in North Hall 3019.
+
+
+## Teaching Archive
+
+Add previous teaching assistantships, guest lectures, review sessions, or course materials here.
+
+| Term | Course | Role |
+|---|---|---|
+| Summer 2026 | Math Camp 2026 | Instructor |

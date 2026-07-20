@@ -1,0 +1,32 @@
+---
+title: "Yue Yu"
+subtitle: "PhD Student in Economics"
+listing: false
+---
+
+:::::: hero
+::: hero-copy
+I am a PhD student in economics at University of California, Santa Barbara. My interests include macroeconomics and labor economics.
+
+This site collects my teaching materials, research updates, and course resources.
+:::
+
+:::: hero-card
+::: initials
+YY
+:::
+
+**Economics PhD Student**\
+University of California, Santa Barbara
+
+[Email](yu78@ucsb.edu){.button} [CV](cv.qmd){.button .secondary}
+::::
+::::::
+
+## Current
+
+::: notice
+**Math Camp**
+
+I am teaching Math Camp 2026. Course materials, notes, and problem sets will be posted on the [Teaching](teaching.qmd#math-camp-2026) page.
+:::
