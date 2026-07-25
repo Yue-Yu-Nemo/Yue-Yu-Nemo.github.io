@@ -19,7 +19,7 @@ YY
 **Economics PhD Student**\
 University of California, Santa Barbara
 
-[Email](yu78@ucsb.edu){.button} [CV](cv.qmd){.button .secondary}
+[Email](mailto:yu78@ucsb.edu){.button}
 ::::
 ::::::
 

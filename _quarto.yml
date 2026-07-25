@@ -12,8 +12,6 @@ website:
         text: Teaching
       - href: research.qmd
         text: Research
-      - href: cv.qmd
-        text: CV
     right:
       - text: Email
         href: mailto:yu78@ucsb.edu
