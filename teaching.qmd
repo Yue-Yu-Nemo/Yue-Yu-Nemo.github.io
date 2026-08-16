@@ -13,20 +13,20 @@ I am teaching Math Camp 2026 for incoming economics graduate students. Materials
 
 | Date | Topic | Materials |
 |---|---|---|
-| Week 1 | Sets, functions, and proof basics | Coming soon |
-| Week 1 | Linear algebra review | Coming soon |
-| Week 2 | Calculus and optimization | Coming soon |
-| Week 2 | Constrained optimization | Coming soon |
+| Week 1 | Sets, functions, and proof basics | Analysis lecture 1-4 |
+| Week 1 | Linear algebra review | Linear Algebra lecture 1-4 |
+| Week 2 | Probability review | Coming soon |
+| Week 2 | Calculus and Analysis basic | Coming soon |
 | Week 3 | Probability review | Coming soon |
-| Week 3 | Dynamic optimization or applications | Coming soon |
+| Week 3 | Optimization and applications | Coming soon |
 
 #### Materials
 
-- [Syllabus](materials/syllabus.pdf)
-- [Lecture 1 Notes](materials/lecture-1-notes.pdf)
-- [Problem Set 1](materials/problem-set-1.pdf)
-- [Problem Set 1 Solutions](materials/problem-set-1-solutions.pdf)
-
+- [Syllabus](materials/MathCamp/Syllabus.pdf)
+- [Lecture 1 Notes](materials/MathCamp/1_Sets_and_Logic.pdf)
+- [Lecture 2 Notes](materials/MathCamp/2_Proof_Strategies.pdf)
+- [Lecture 3 Notes](materials/MathCamp/3_Functions.pdf)
+- [Lecture 4 Notes](materials/MathCamp/4_Limits.pdf)
 
 #### Office Hours
 
