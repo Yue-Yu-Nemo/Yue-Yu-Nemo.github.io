@@ -28,6 +28,11 @@ I am teaching Math Camp 2026 for incoming economics graduate students. Materials
 - [Lecture 3 Notes](materials/MathCamp/3_Functions.pdf)
 - [Lecture 4 Notes](materials/MathCamp/4_Limits.pdf)
 
+#### Problem Sets
+
+- [Linear Algebra PS1](materials/MathCamp/Linear_Algebra_PS1.pdf)
+- [Analysis PS1](materials/MathCamp/Analysis_PS1.pdf)
+
 #### Office Hours
 
 Tuesdays at 3:00pm - 4:00pm in North Hall 3019.
