@@ -15,10 +15,10 @@ I am teaching Math Camp 2026 for incoming economics graduate students. Materials
 |---|---|---|
 | Week 1 | Sets, functions, and proof basics | Analysis lecture 1-4 |
 | Week 1 | Linear algebra review | Linear Algebra lecture 1-4 |
-| Week 2 | Probability review | Coming soon |
-| Week 2 | Calculus and Analysis basic | Coming soon |
+| Week 2 | Probability review | Linear Algebra lecture 5-8 |
+| Week 2 | Calculus and Analysis basic | Analysis lecture 5-7 |
 | Week 3 | Probability review | Coming soon |
-| Week 3 | Optimization and applications | Coming soon |
+| Week 3 | Optimization and applications | Analysis lecture 8-10 |
 
 #### Materials
 
@@ -27,6 +27,17 @@ I am teaching Math Camp 2026 for incoming economics graduate students. Materials
 - [Lecture 2 Notes](materials/MathCamp/2_Proof_Strategies.pdf)
 - [Lecture 3 Notes](materials/MathCamp/3_Functions.pdf)
 - [Lecture 4 Notes](materials/MathCamp/4_Limits.pdf)
+- [Lecture 5 Notes](materials/MathCamp/5_Continuity_and_Differentiability.pdf)
+- [Lecture 6 Notes](materials/MathCamp/6_Topology_on_Metric_Space.pdf)
+- [Lecture 7 Notes](materials/MathCamp/7_Multivariate_Derivative.pdf)
+- [Lecture 8 Notes](materials/MathCamp/8_Integral.pdf)
+- [Lecture 7 Notes](materials/MathCamp/9_Optimization.pdf)
+- [Lecture 8 Notes](materials/MathCamp/10_ODE.pdf)
+
+#### Proof Session & R Session
+
+- [Proof Session 1](materials/MathCamp/Proof_Session_1.pdf)
+- [Analysis PS1](materials/MathCamp/R_Session_1.pdf)
 
 #### Problem Sets
 
