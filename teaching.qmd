@@ -37,7 +37,7 @@ I am teaching Math Camp 2026 for incoming economics graduate students. Materials
 #### Proof Session & R Session
 
 - [Proof Session 1](materials/MathCamp/Proof_Session_1.pdf)
-- [Analysis PS1](materials/MathCamp/R_Session_1.pdf)
+- [R Session 1](materials/MathCamp/R_Session_1.pdf)
 
 #### Problem Sets
 
