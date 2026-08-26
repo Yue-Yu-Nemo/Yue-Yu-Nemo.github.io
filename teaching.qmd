@@ -42,8 +42,11 @@ I am teaching Math Camp 2026 for incoming economics graduate students. Materials
 #### Problem Sets
 
 - [Linear Algebra PS1](materials/MathCamp/Linear_Algebra_PS1.pdf)
+- [Linear Algebra PS1 solutions](materials/MathCamp/Linear_Algebra_PS1_solution.pdf)
 - [Analysis PS1](materials/MathCamp/Analysis_PS1.pdf)
-
+- [Analysis PS1 solutions](materials/MathCamp/Analysis_PS1_solution.pdf)
+- [Linear Algebra PS2](materials/MathCamp/Linear_Algebra_PS2.pdf)
+- [Analysis PS2](materials/MathCamp/Analysis_PS2.pdf)
 #### Office Hours
 
 Tuesdays at 3:00pm - 4:00pm in North Hall 3019.
