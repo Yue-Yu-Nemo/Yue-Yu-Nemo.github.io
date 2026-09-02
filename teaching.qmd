@@ -46,7 +46,11 @@ I am teaching Math Camp 2026 for incoming economics graduate students. Materials
 - [Analysis PS1](materials/MathCamp/Analysis_PS1.pdf)
 - [Analysis PS1 solutions](materials/MathCamp/Analysis_PS1_solution.pdf)
 - [Linear Algebra PS2](materials/MathCamp/Linear_Algebra_PS2.pdf)
+- [Linear Algebra PS2 solutions](materials/MathCamp/Linear_Algebra_PS2_solution.pdf)
 - [Analysis PS2](materials/MathCamp/Analysis_PS2.pdf)
+- [Analysis PS2 solutions](materials/MathCamp/Analysis_PS2_solutions.pdf)
+- [Linear Algebra PS3](materials/MathCamp/Linear_Algebra_PS3.pdf)
+- [Real Analysis PS3](materials/MathCamp/Real_Analysis_PS3.pdf)
 
 #### Office Hours
 
